@@ -1,5 +1,20 @@
-## Hi there 👋
+ Meu perfil Tech 
 
+### 👋Hey, eu sou a Jhenifer!
+### ✨Estudante de Análise e Desenvolvimento de Sistemas 
+### 💻 Verdadeira dev no mundo tech 
+<br>
+
+## 🚀 Tecnologias & Ferramentas em Aprendizagem
+### **Linguagem:** Java
+### **Ferramentas:** Git,GitHub,VSCode e AWS
+### **Outros:** Markdow
+<br>
+
+## 👩‍💻O que você vai encontrar por aqui?
+###  Projetos de estudo / trabalho 
+###  Invenções e pensamentos se tornando realidade
+### Open Source
 <!--
 **kelyys/kelyys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
